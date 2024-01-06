@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Aditya-Bhadauria
-- 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on website Projects
+
+👋 I'm a passionate student on a journey through the exciting world of software development.
+👨‍💻 Currently immersed in the dynamic realms of coding, I'm dedicated to honing my skills and expanding my knowledge base.
 
 
-<!---
-Aditya-Bhadauria/Aditya-Bhadauria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
